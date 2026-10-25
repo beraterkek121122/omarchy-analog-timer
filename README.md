@@ -42,7 +42,7 @@ omarchy bar move berat.analog-clock --section right
 ### Elle
 
 ```bash
-git clone https://github.com/<kullanici>/omarchy-analog-clock
+git clone https://github.com/beraterkek121122/omarchy-analog-clock
 mkdir -p ~/.config/omarchy/plugins/berat.analog-clock
 cp omarchy-analog-clock/{manifest.json,Clock.qml,BarWidget.qml} \
    ~/.config/omarchy/plugins/berat.analog-clock/
