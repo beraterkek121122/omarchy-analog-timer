@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "berat.analog-clock",
+  "name": "Analog Clock",
+  "version": "1.0.0",
+  "author": "berat",
+  "license": "MIT",
+  "description": "Masaüstü analog saat: beyaz kadran, Roma rakamları, bar menüsünden boyut ve konum ayarı",
+  "kinds": [
+    "bar-widget",
+    "service"
+  ],
+  "entryPoints": {
+    "barWidget": "BarWidget.qml",
+    "service": "Clock.qml"
+  },
+  "barWidget": {
+    "displayName": "Analog Saat",
+    "description": "Masaüstü analog saatinin boyutunu ve konumunu ayarlar",
+    "category": "Appearance",
+    "allowMultiple": false,
+    "defaultSection": "right"
+  }
+}

@@ -1,0 +1,10 @@
+# Kullanıcı ayarları (barda/masaüstünde otomatik oluşur, depoya girmez)
+analog-clock.conf
+
+# Yerel yedekler
+*.bak
+*.bak.*
+*~
+
+# Editör / işletim sistemi artıkları
+.DS_Store
