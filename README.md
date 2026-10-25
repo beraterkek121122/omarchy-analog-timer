@@ -29,7 +29,7 @@ menüsünden ayarlanır.
 ### Git üzerinden (önerilen)
 
 ```bash
-omarchy plugin add https://github.com/<kullanici>/omarchy-analog-clock --enable
+omarchy plugin add https://github.com/beraterkek121122/omarchy-analog-clock --enable
 ```
 
 `--enable` bar'a widget'ı ekler; servis (masaüstü saati) otomatik yüklenir.
